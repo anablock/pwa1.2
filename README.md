@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## State
+* State is easy to define; it's an object that is the property of the class.   
+* always define state at the top of our component.  
+* We can then access our state right in the render method.
+* the curly braces inside JSX mean we're inserting some Javascript code
 ## Webpack
 * https://webpack.js.org/
 
