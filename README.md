@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Webpack
+* https://webpack.js.org/
+
+## Git 
+* [Git Commands](https://github.com/joshnh/Git-Commands)
+
 ## Available Scripts
 
 In the project directory, you can run:
