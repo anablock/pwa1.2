@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Promises
+Promises syntax: pass one function to a `.then` statement to be called when the operation is a success, and another to a `.catch` statement when the operation is a failure:
+```javascript
+firebase.auth().signInWithEmailAndPassword(email, password)
+  .then(() => { // Do something on success })
+  .catch(err => { // Do something on failure. })
+```
 ## State
 * State is easy to define; it's an object that is the property of the class.   
 * always define state at the top of our component.  
